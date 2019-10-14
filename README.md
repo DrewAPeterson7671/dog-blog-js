@@ -1,8 +1,8 @@
-#_{Pet Webpage}_
+# Pet Webpage
 
-####_{webpage that introduces user to Steve and Cora, a golden retriever and chicken, respectively.}, {v1.0 October 14th, 2019}_
+####_webpage that introduces user to Steve and Cora, a golden retriever and chicken, respectively. v1.0 October 14th, 2019_
 
-#### By _**{Chris Sanchez, and Ike Esquivel-Pilloud}**_
+#### By _**Chris Sanchez, and Ike Esquivel-Pilloud**_
 
 ## Description
 
@@ -16,16 +16,16 @@ _{This webpage contains three separate entries. The purpose of this application 
 
 ## Known Bugs
 
-_{The header is not aesthetically pleasing, it has a spacing gap on top.}_
+_The header is not aesthetically pleasing, it has a spacing gap on top._
 
 ## Support and Contact details
 
-_{Ike's email: ike.esquivelpilloud@gmail.com
-Chris' email: c.sanch7@gmail.com}_
+_Ike's email: ike.esquivelpilloud@gmail.com
+Chris' email: c.sanch7@gmail.com_
 
 ## Technologies Used
 
-_{Atom text editor, git/github}_
+_Atom text editor, git/github_
 
 ### License
 
