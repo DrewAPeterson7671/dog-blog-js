@@ -19,6 +19,12 @@ h1{
   margin-bottom: 15px;
 }
 
+.bio {
+  font-size: 20px;
+  font-style: italic;
+  /* color: white; */
+}
+
 .footer {
   /* background-color: rgb(90,82,85);
   color: white; */
