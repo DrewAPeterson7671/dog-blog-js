@@ -1,6 +1,6 @@
 # Pet Webpage
 
-#### Webpage that introduces user to Steve and Cora, a golden retriever and chicken, respectively. v1.0 October 14th, 2019_
+#### Webpage that introduces user to Steve and Cora, a golden retriever and chicken, respectively. v1.0 October 14th, 2019
 
 #### By _**Chris Sanchez, and Ike Esquivel-Pilloud**_
 
@@ -25,8 +25,8 @@ Chris' email: c.sanch7@gmail.com_
 
 ## Technologies Used
 
-_Atom text editor, git/github_
+_Atom text editor, git/Github_
 
 ### License
 
-Copyright (c) 2019 **_Chris Sanchez and Ike Esquivel-Pilloud_**
+Copyright (c) 2019 **_(Chris Sanchez and Ike Esquivel-Pilloud)_**
