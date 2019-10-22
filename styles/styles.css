@@ -45,3 +45,8 @@ h2 {
   height: 30px;
   position: sticky;
 }
+
+.darkscreen {
+  background-color: black;
+  color: white;
+}
